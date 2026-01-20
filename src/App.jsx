@@ -20,7 +20,8 @@ function App() {
           Book your lesson today!
         </p>
         
-        <div className="links">          <a 
+        <div className="links">
+          <a
             href="https://goteamup.com/consumer_required/?next=/p/12201215-london-skate-school/c/schedule%3Fstartdate%3D2025-12-01%26enddate%3D2026-01-04%26venues%3D%26category%3D%26instructors%3D%26offering_types%3D%26age_restrictions%3D" 
             target="_blank"
             rel="noopener noreferrer"
